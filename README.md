@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**bonana8567/bonana8567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, i'm Andrea 👋
+## I am an engineering managemet grad student
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: andreaonana02@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I speak french
--->
+
+Ways to reach me:
+[LinkedIn]:https://www.linkedin.com/in/berthe-onana-6000231b5/
