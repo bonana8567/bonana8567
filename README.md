@@ -1,7 +1,7 @@
 ## Hi there, i'm Andrea 👋
-## I am an engineering managemet grad student
+## I am an engineering management graduate student
 
-Here are some ideas to get you started:
+Here is some information about me:
 
 - 🔭 I’m currently working on completing my masters
 - 🌱 I’m currently learning engineering management
